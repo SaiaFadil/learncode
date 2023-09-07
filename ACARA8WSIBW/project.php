@@ -5,18 +5,12 @@ class MtkOperation {
     public static function add($a, $b) {
         return $a + $b;
     }
-
-    // Method untuk mengurangkan dua angka
     public static function subtract($a, $b) {
         return $a - $b;
     }
-
-    // Method untuk mengalikan dua angka
     public static function multiply($a, $b) {
         return $a * $b;
     }
-
-    // Method untuk membagi dua angka
     public static function divide($a, $b) {
         if ($b == 0) {
             return "Pembagian oleh nol tidak valid";
