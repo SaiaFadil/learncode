@@ -1,4 +1,8 @@
-<?php include("class_lib.php");
+<?php
+
+include("class_lib.php");
+
+
 $stefan = new person("");
 $jimmy = new person("");
 $stefan->set_name("Stefan Mischook");
