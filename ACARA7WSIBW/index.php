@@ -10,3 +10,6 @@ $jimmy->set_name("Nick Waddles");
 echo "Stefan's full name: " . $stefan->get_name()."<br>";
 echo "Nick's full name: " . $jimmy->get_name();
 ?>
+
+
+//membuat aplikasi perhitungan dengan bahasa php dengan menerapkan oop
